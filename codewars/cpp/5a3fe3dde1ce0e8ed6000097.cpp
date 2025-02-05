@@ -1,1 +1,1 @@
-x 1int centuryFromYear(int year) 2{3return (year + 99) / 100;4}
+xxxxxxxxxx 1int centuryFromYear(int year) 2{3return 1 ;4}
