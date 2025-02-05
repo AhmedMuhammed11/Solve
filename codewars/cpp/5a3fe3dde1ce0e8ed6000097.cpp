@@ -1,1 +1,1 @@
-xxxxxxxxxx 1local kata = {}2​3function kata.century(number)4  -- Your code goes here5end6​7return kata
+xxxxxxxxxx 1<?php2  3function centuryFromYear(int $year): int{4  return 0; // Your code here5}
