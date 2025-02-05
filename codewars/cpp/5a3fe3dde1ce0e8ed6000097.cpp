@@ -1,1 +1,1 @@
-xxxxxxxxxx 1int centuryFromYear(int year) 2{3return 1 ;4}
+xxxxxxxxxx 1local kata = {}2​3function kata.century(number)4  -- Your code goes here5end6​7return kata
