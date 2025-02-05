@@ -1,0 +1,1 @@
+xxxxxxxxxx 1using System;2​3class Sudoku4{5  public Sudoku(int[][] sudokuData)6  {7    //Constructor here8  }9​10  public bool IsValid()11  {    12    throw new NotImplementedException();13  }14}
