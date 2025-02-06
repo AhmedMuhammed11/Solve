@@ -1,1 +1,1 @@
-xxxxxxxxxx 1<?php2  3function centuryFromYear(int $year): int{4  return 0; // Your code here5}
+xxxxxxxxxx 1int centuryFromYear(int year) 2{3return 1 ;4}
