@@ -1,1 +1,1 @@
-xxxxxxxxxx 1#include <vector>2#include <string>3​4std::string findNeedle(const std::vector<std::string>& haystack)5{6    // You may use the function std::to_string to convert numbers to strings for easy concatenation. 7    // E.g., ("hi" + std::to_string(123)) ==> "hi123". Of course, that's only one of many approaches.8  9    return "found the needle at position " + std::to_string(123);10}
+x7 1#include <vector>2#include <string>3​4std::string findNeedle(const std::vector<std::string>& haystack)5{6   A7a7}
